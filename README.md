@@ -73,6 +73,6 @@ Check the Netcat listener. We have recieved the root flag.
 
 
 ## Congrats!
-## We have solved DAV THM CTF!
+## We have solved Wgel THM CTF!
 ## Follow My GitHub for more.
 
