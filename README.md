@@ -60,7 +60,7 @@ We can run sudo wget without password.
 nc -nlvp 4445
 ```
 
-Let's Open netcat listener (The screenshot is older one with port 1234. Don't confuse it, You can use any port but remeber to keep the same port on both sides.)
+Let's Open netcat listener (The screenshot is older one with port 1234. Don't confuse it, You can use any port but remeber to keep the same port on both sides.) <br>
 ![nc listener](https://github.com/MajesticFires3010/Wgel-THM-CTF/assets/96762636/5f30ea5d-d5b1-4d72-b84c-2f59b1d10e9f) <br>
 
 ```sh
